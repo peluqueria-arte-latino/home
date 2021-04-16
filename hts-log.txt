@@ -1,0 +1,76 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Mar 2021 22:49:29 at https://www.peluqueriaartelatino.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.peluqueriaartelatino.com -O1 "D:\Sitios_Web\ArteLatino\Descarga Web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:49:55	Error: 	"Method Not Allowed" (405) at link https://www.peluqueriaartelatino.com/xmlrpc.php (from https://www.peluqueriaartelatino.com/)
+22:50:45	Error: 	"Not Found" (404) at link https://www.peluqueriaartelatino.com/contactar/ (from https://www.peluqueriaartelatino.com/)
+22:50:47	Error: 	"Bad Request" (400) at link https://www.peluqueriaartelatino.com/wp-admin/admin-ajax.php (from https://www.peluqueriaartelatino.com/)
+22:50:49	Error: 	"Not Found" (404) at link https://www.peluqueriaartelatino.com/wp-content/themes/event-planners/assets/images/widget_hover.png (from https://www.peluqueriaartelatino.com/wp-content/themes/event-planners/style_core.css?ver=4.9.16)
+22:50:49	Warning: 	File not parsed, looks like binary: https://www.peluqueriaartelatino.com/wp-content/themes/event-planners/assets/fonts/fontawesome/fontawesome-webfont.woff2
+22:50:49	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3270
+22:50:49	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3270 to https://www.peluqueriaartelatino.com/arte-latino/
+22:50:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3271
+22:50:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3271 to https://www.peluqueriaartelatino.com/mujer/
+22:50:55	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3277
+22:50:55	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3277 to https://www.peluqueriaartelatino.com/tinte/
+22:50:56	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3278
+22:50:56	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3278 to https://www.peluqueriaartelatino.com/mechas/
+22:50:58	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3272
+22:50:58	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3272 to https://www.peluqueriaartelatino.com/novias/
+22:51:01	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3273
+22:51:01	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3273 to https://www.peluqueriaartelatino.com/comuniones/
+22:51:02	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3274
+22:51:02	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3274 to https://www.peluqueriaartelatino.com/hombre/
+22:51:03	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3275
+22:51:03	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3275 to https://www.peluqueriaartelatino.com/galeria/
+22:51:05	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3276
+22:51:05	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3276 to https://www.peluqueriaartelatino.com/contacto/
+22:51:06	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3531
+22:51:06	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3531 to https://www.peluqueriaartelatino.com/aviso-legal/
+22:51:06	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3667
+22:51:06	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3667 to https://www.peluqueriaartelatino.com/peluquerias-de-senoras-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3668
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3668 to https://www.peluqueriaartelatino.com/peluquerias-de-caballeros-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3669
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3669 to https://www.peluqueriaartelatino.com/peluquerias-de-ninos-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3670
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3670 to https://www.peluqueriaartelatino.com/peluquerias-especialistas-en-novias-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3671
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3671 to https://www.peluqueriaartelatino.com/peluquerias-especialistas-en-ninas-de-primera-comunion-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3672
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3672 to https://www.peluqueriaartelatino.com/peluquerias-para-tratamientos-capilares-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3673
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3673 to https://www.peluqueriaartelatino.com/peluquerias-especialistas-en-mechas-balayage-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3674
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3674 to https://www.peluqueriaartelatino.com/peluquerias-especialistas-en-tocados-de-novias-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3675
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3675 to https://www.peluqueriaartelatino.com/peluquerias-especialistas-en-tocados-para-fiestas-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3676
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3676 to https://www.peluqueriaartelatino.com/peluquerias-especialistas-en-tocados-para-eventos-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3677
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3677 to https://www.peluqueriaartelatino.com/peluquerias-especialistas-tratamientos-con-keratina-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3678
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3678 to https://www.peluqueriaartelatino.com/peluqueros-a-domicilio-para-bodas-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3679
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3679 to https://www.peluqueriaartelatino.com/peluqueros-para-novias-a-domicilio-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3680
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3680 to https://www.peluqueriaartelatino.com/peluqueros-a-domicilio-para-ninas-de-primera-comunion-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3681
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3681 to https://www.peluqueriaartelatino.com/presupuestos-para-novia-de-peinados-para-boda-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3682
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3682 to https://www.peluqueriaartelatino.com/presupuestos-para-ninas-de-peinados-de-primera-comunion-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3683
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3683 to https://www.peluqueriaartelatino.com/presupuestos-de-tratamientos-capilares-con-keratina-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3684
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3684 to https://www.peluqueriaartelatino.com/presupuestos-de-peinados-para-bodas-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3685
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3685 to https://www.peluqueriaartelatino.com/peluquerias-economicas-para-senoras-en-alcala-de-henares/
+22:51:52	Warning: 	Moved Permanently for https://www.peluqueriaartelatino.com/?p=3686
+22:51:52	Warning: 	File has moved from https://www.peluqueriaartelatino.com/?p=3686 to https://www.peluqueriaartelatino.com/peluquerias-latinas-en-alcala-de-henares/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 23 seconds : 317 links scanned, 282 files written (19666360 bytes overall) [17871050 bytes received at 124972 bytes/sec], 2637704 bytes transferred using HTTP compression in 122 files, ratio 25%, 8.8 requests per connection
+(4 errors, 61 warnings, 0 messages)

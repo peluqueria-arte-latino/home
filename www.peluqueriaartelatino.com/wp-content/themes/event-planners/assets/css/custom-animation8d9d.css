@@ -1,0 +1,10 @@
+.home1_section_area .center .servicebox,
+.home2_section_area .center .col-columns-2, 
+.home3_section_area .center .vgalslide, 
+.home4_section_area .center .cols4,
+.home5_section_area .center .clientslider li,
+.home6_section_area .center, 
+.home7_section_area .center .col-columns-5,
+.home7_section_area .center .homesidebar,
+.home8_section_area .center .col-columns-2
+{visibility:hidden;}
